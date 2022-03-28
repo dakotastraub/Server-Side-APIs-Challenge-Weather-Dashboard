@@ -7,13 +7,9 @@ Instructions
 As a traveler
 - I want to see the weather outlook for multiple cities
 so that I can plan a trip accordingly
-How do you deliver this? Here are some guidelines:
+<img width="1463" alt="Screenshot 2022-03-27 204327" src="https://user-images.githubusercontent.com/98859025/160308835-df21e082-b65c-4a15-b309-ffc955c13574.png">
+<img width="1367" alt="Screenshot 2022-03-27 204355" src="https://user-images.githubusercontent.com/98859025/160308839-891429e7-514e-41c0-8e7d-a03867d0f33b.png">
 
-Use the OpenWeather API to retrieve weather data for cities. The documentation includes a section called "How to start" that will provide basic setup and usage instructions.
-
-- Use AJAX to hook into the API to retrieve data in JSON format.
-
-Your app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 Display the following under current weather conditions:
 
@@ -55,9 +51,3 @@ Current conditions
 Search history
 
 - UV index
-
-You will need to make more than one AJAX call.
-
-You will need to hardcode some of the parameters in the API's URL. User input will determine some of the other parameters.
-
-Use localStorage to store any persistent data.
